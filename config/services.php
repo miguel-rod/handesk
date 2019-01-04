@@ -21,6 +21,7 @@ return [
             'retail' => '8012b3aeab',
             'flow'   => 'c176e8feaf',
             'web'    => 'ad27d6f6f8',
+            'tags'   => 'list',
         ],
     ],
 
